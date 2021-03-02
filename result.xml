@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.029"
+               timestamp="2021-03-02T07:34:34.635960" hostname="451da993c840">
+        <testcase classname="test_repro" name="test_reproduction" file="mock_decorator.py" line="1" time="0.001"/>
+    </testsuite>
+</testsuites>
